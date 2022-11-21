@@ -7,7 +7,6 @@
     - Python / FastAPI 
     - Pandas / NumPy / SciPy / Matplotlib
     - FARM Stack 
-    - Django / Flask
     - React JS / MERN Stack
     - TypeScript / Javascript / CSS/ HTML
     - MySQL / MongoDB / PostgreSQL
