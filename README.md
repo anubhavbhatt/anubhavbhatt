@@ -1,23 +1,24 @@
-## Hi, I'm Anubhav Bhatt
+## Hey Githubians, I'm Anubhav Bhatt
 
 ### About Me
-- Enthusiastic and Passionate Developer
-- Taking challenges and resolve them by technologies
-- Skilled on the various technologies
-    - Python / FastAPI 
+- I am an Enthusiastic and Passionate Developer
+- Passionate about AI/ML things
+- Worked on ML Google Bard / Chat GPT models.  
+- Taking challenges and resolving them by technologies
+- Skilled in the various technologies
+    - Python / Django / Flask / FastAPI 
     - Pandas / NumPy / SciPy / Matplotlib
     - FARM Stack 
     - React JS / MERN Stack
     - TypeScript / Javascript / CSS/ HTML
     - MySQL / MongoDB / PostgreSQL
-    - Wordpress / Woocommerce
+    - WordPress / Woocommerce
 
 <code>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,graphql,wordpress&theme=light" />
 </code>
  
 | <a href="https://github.com/anubhavbhatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavbhatt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anubhav Bhatt's github stats" /></a> | <a href="https://github.com/anubhavbhatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavbhatt&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <!--
 **anubhavbhatt/anubhavbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
