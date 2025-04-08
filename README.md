@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,graphql,wordpress&theme=light" />
 </code>
  
-| <a href="https://github.com/anubhavbhatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavbhatt&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anubhav Bhatt's github stats" /></a> | <a href="https://github.com/anubhavbhatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavbhatt&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anubhavbhatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavbhatt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anubhav Bhatt's github stats" /></a> | <a href="https://github.com/anubhavbhatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavbhatt&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!--
 **anubhavbhatt/anubhavbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
